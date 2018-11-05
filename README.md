@@ -8,9 +8,10 @@ Checkout and Calendar Proxy module
  * [Checkout Service](https://github.com/AirHackers/CheckoutCalendarService)
 
 ## Service Summary
-| Service       | Render ID     | Port   | Bundle Location (from Webpack Config) |
-| ------------- | ------------- | ------ | ----------------------- |
-| Summary       | summary       |  3001  | /dist/bundle.js         | 
-| Photos        | app           |  3002  | /dist/bundle.js         |
-| Reviews       | reviews       |  3003  | /bundle.js              |
-| Checkout      | checkout      |  3004  | /dist/bundle.js         |
+ * Item detail page endpoint: http://localhost:3000/homes/:homeId
+| Service       | Render ID     | Port   | Bundle Location (for URL) |
+| ------------- | ------------- | ------ | ------------------------- |
+| Summary       | summary       |  3001  | /homes/0/dist/bundle.js   | 
+| Photos        | pm-app        |  3002  | /dist/bundle.js           |
+| Reviews       | reviewapp     |  3003  | /homes/0/bundle.js        |
+| Checkout      | checkout      |  3004  | /dist/bundle.js           |
