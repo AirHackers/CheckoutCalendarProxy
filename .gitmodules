@@ -1,0 +1,12 @@
+[submodule "CheckoutCalendarService"]
+	path = CheckoutCalendarService
+	url = https://github.com/AirHackers/CheckoutCalendarService
+[submodule "SummaryModule"]
+	path = SummaryModule
+	url = https://github.com/AirHackers/SummaryModule
+[submodule "ReviewService"]
+	path = ReviewService
+	url = https://github.com/AirHackers/ReviewService
+[submodule "photos-view-victor"]
+	path = photos-view-victor
+	url = https://github.com/AirHackers/photos-view-victor

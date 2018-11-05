@@ -36,6 +36,7 @@ jobs:
       - run:
           name: Running ESLint with Airbnb Config
           command: yarn lint
-      - run:
-          name: Running Jest tests
-          command: yarn test
+      # Disable tests for now, just lint and build
+      # - run:
+          # name: Running Jest tests
+          # command: yarn test
