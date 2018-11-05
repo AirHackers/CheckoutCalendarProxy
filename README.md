@@ -9,6 +9,7 @@ Checkout and Calendar Proxy module
 
 ## Service Summary
  * Item detail page endpoint: http://localhost:3000/homes/:homeId
+ 
 | Service       | Render ID     | Port   | Bundle Location (for URL) |
 | ------------- | ------------- | ------ | ------------------------- |
 | Summary       | summary       |  3001  | /homes/0/dist/bundle.js   | 
