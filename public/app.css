@@ -14,11 +14,6 @@
   grid-column: span 6;
 }
 
-#checkout {
-  grid-column: span 6;
-  margin-top: 24px;
-}
-
 #reviewapp {
   grid-column: 2 / 8;
 }
