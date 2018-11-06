@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/AirHackers/CheckoutCalendarProxy#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.6.0",
     "express": "^4.16.4",
