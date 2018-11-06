@@ -1,12 +1,16 @@
 [submodule "CheckoutCalendarService"]
 	path = CheckoutCalendarService
 	url = https://github.com/AirHackers/CheckoutCalendarService
+    branch = edmond
 [submodule "SummaryModule"]
 	path = SummaryModule
 	url = https://github.com/AirHackers/SummaryModule
+    branch = edmond
 [submodule "ReviewService"]
 	path = ReviewService
 	url = https://github.com/AirHackers/ReviewService
+    branch = edmond
 [submodule "photos-view-victor"]
 	path = photos-view-victor
 	url = https://github.com/AirHackers/photos-view-victor
+    branch = edmond

@@ -11,7 +11,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname, '../public')));
 
 // Handles HTML requests for a given ID, will be routed by React Router
-app.get('/home/:homeID', (req, res) => {
+app.get('/homes/:homeID', (req, res) => {
   res.sendFile(path.join(`${__dirname}/../public/index.html`));
 });
 
